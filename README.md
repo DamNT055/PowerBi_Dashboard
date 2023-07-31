@@ -3,4 +3,5 @@ This repo contains Power BI dashboard which is used to track GDP indicators of p
 * This repo contains Power BI dashboards
 * The dashboards are used to track important business metrics
 * The dashboards are automatically updated
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/DamNT055/PowerBi_Dashboard/blob/main/screenshot.png)https://github.com/DamNT055/PowerBi_Dashboard/blob/main/screenshot.png "ScreenShot 1")
+  
+![alt text]([https://github.com/DamNT055/PowerBi_Dashboard/blob/main/screenshot.png]("ScreenShot 1")
